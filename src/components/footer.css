@@ -1,0 +1,9 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer div p {
+    padding-left: 90px;
+    padding-top: 3px;
+}
